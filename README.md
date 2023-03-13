@@ -1,4 +1,4 @@
- 👋🏻 Hey, I'm Brandon! Im an aspiring Software Engineer. I'm starting out in web developement and have an ultimate goal of a career in Machine Learning!
+ 👋🏻 Hey, I'm Brandon! Im an aspiring Software Engineer, and  I'm starting out in web developement with a goal of a career in Machine Learning!
 <!--
 **Brando129/Brando129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
