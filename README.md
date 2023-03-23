@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Brandon Colangelo
-#### Full Stack Software Developer
+<h1>Brandon Colangelo</h1>
 I’m an aspiring Software Engineer, with experience in Python, HTML, CSS, and Javascript. I have the skills and determination to improve civilization for the benefit of humanity and future generations through innovation and problem solving.
 
 ##Skills and Experience
