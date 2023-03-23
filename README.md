@@ -1,9 +1,8 @@
 <h1>Brandon Colangelo</h1>
 I’m an aspiring Software Engineer, with experience in Python, HTML, CSS, and Javascript. I have the skills and determination to improve civilization for the benefit of humanity and future generations through innovation and problem solving.
 
-##Skills and Experience
-* 🐍 Python
-* 💻 Javascript | HTML | CSS
+<h3>🛠️Languages and Tools</h3>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />"/>
 
 - 🌱 I’m currently learning Bootstrap 
 - 💬 Ask me about Python | Javascript | HTML | CSS 
