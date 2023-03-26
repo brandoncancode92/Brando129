@@ -7,8 +7,6 @@
 - 🥅 2023 Goals: Learn more about Python
 - ⚡ Fun fact: I love to collect retro video games and hike!
 
-### Connect with me:
-
 ### 🛠️ Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
