@@ -23,6 +23,3 @@
 [<img align="left" alt="Crome" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right:10px;" />]
 
 
-<br />
-<br />
-
