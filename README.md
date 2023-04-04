@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2023 Goals: Learn more about Python
-- ⚡ Fun fact: I love to collect retro video games and hike!
+- ⚡ Fun fact: I love to collect retro video games and ride fast motorcycles!
 
 ### 🛠️ Languages and Tools:
 
