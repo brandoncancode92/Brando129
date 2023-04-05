@@ -1,6 +1,6 @@
-# Hi there, I'm Brandon! - aka CaLLiNJeLL0 👋🏻
+# Hello there, I'm Brandon! - aka CaLLiNJeLL0 👋🏻
 
-## I'm a Full-Stack Software Developer, and Gamer!!
+## I'm a Full-Stack Software Developer, and Gamer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
