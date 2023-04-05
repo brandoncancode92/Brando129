@@ -1,12 +1,11 @@
 # Hi there, I'm Brandon! - aka CaLLiNJeLL0 👋🏻
 
 ## I'm a Full-Stack Software Developer, and Gamer!!
-<br />
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2023 Goals: Learn more about Python
-- ⚡ Fun fact: I love to collect retro video games and ride fast motorcycles!
+- ⚡ Fun fact: I like to ride fast motorcyles and collect retro gaming stuffs!
 
 ### 🛠️ Languages and Tools:
 
