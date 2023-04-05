@@ -24,4 +24,6 @@
 <img align="left" alt="Apple" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
 <img align="left" alt="Chrome" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
 
+<br />
+
 #
