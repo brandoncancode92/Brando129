@@ -1,11 +1,14 @@
-# Hi there, I'm Brandon! - aka CaLLiNJeLL0 👋🏻
+Hi there, I'm Brandon! - aka CaLLiNJeLL0 👋🏻
 
-## I'm a Full-Stack Software Developer, and Gamer!!
+I'm a Full-Stack Software Developer, and Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2023 Goals: Learn more about Python
 - ⚡ Fun fact: I love to collect retro video games and ride fast motorcycles!
+
+<br />
+###
 
 ### 🛠️ Languages and Tools:
 
@@ -24,6 +27,3 @@
 <img align="left" alt="Apple" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
 <img align="left" alt="Chrome" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
 
-<br />
-
-#
