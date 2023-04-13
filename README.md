@@ -1,4 +1,4 @@
-# Hello there, I'm Brandon! - GT - CaLLiNJeLL0 👋🏻
+# Hello there, I'm Brandon! 👋🏻 GT - CaLLiNJeLL0 
 
 ## I'm a Full-Stack Software Developer, and Gamer!
 
