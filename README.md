@@ -1,4 +1,4 @@
-<div style="background-image: url('/static/img/tech_background.png'); height: 400px;">
+<div class="d-flex justify-content-center align-items-center">
   # Hello there, I'm Brandon! 👋🏻  
 
   ## I'm a Full-Stack Software Developer!
